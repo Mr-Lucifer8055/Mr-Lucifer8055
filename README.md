@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/bipin-chowdary8055/overlay/background-image/)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Mr-Lucifer8055/Mr-Lucifer8055/blob/main/banner.jpg)](https://mr-lucifer8055.github.io/my-web-profile/)
 ### Hi there 👋
 
 <!--
