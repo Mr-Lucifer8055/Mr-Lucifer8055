@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/Mr-Lucifer8055/Mr-Lucifer8055/blob/main/neasad.png)](https://mr-lucifer8055.github.io/my-web-profile/)
-<h1 align="center">Hi 👋, I'm Bipin Chowdary</h1>
+<h1 align="center">Hi 👋, I'm Bipin Chowdary (https://github.com/Mr-Lucifer8055/Mr-Lucifer8055/blob/main/giphy.gif) </h1> 
 <h3 align="center">A.I Artificer</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
