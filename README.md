@@ -1,3 +1,4 @@
+[![MasterHead](https://www.linkedin.com/in/bipin-chowdary8055/overlay/background-image/)](https://rishavchanda.io)
 ### Hi there 👋
 
 <!--
