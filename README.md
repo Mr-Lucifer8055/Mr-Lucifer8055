@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/Mr-Lucifer8055/Mr-Lucifer8055/blob/main/neasad.png)](https://mr-lucifer8055.github.io/my-web-profile/)
-<h1 align="center">Hi, I'm Bipin Chowdary ! <img src="https://github.com/Mr-Lucifer8055/Mr-Lucifer8055/blob/main/giphy(1).gif" width="50"></h1> 
+<h1 align="center">Hi, I'm Bipin Chowdary ! <img src="https://github.com/Mr-Lucifer8055/Mr-Lucifer8055/blob/main/giphy (1).gif" width="50"></h1> 
 <h3 align="center">"A.I Artificer"</h3>
 <img align='right' src="https://github.com/Mr-Lucifer8055/Mr-Lucifer8055/blob/main/giphy.gif" width="230">
 
